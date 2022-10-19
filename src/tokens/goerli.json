@@ -1,0 +1,170 @@
+[
+    {
+        "chainId": 5,
+        "address": "0x34912910c295497Be338530967E6E188FdA7F4bc",
+        "name": "Aave",
+        "symbol": "AAVE",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/james-chien/loany-token-list/main/assets/aave.png"
+    },
+    {
+        "chainId": 5,
+        "address": "0x628b2c57d153BE5e4b02406d8A74201aC3f8fDE9",
+        "name": "Basic Attention Token",
+        "symbol": "BAT",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/james-chien/loany-token-list/main/assets/bat.png"
+    },
+    {
+        "chainId": 5,
+        "address": "0x31fA93d68864c34130a538ec6c6A8585AdBc000D",
+        "name": "BNB",
+        "symbol": "BNB",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/james-chien/loany-token-list/main/assets/bnb.png"
+    },
+    {
+        "chainId": 5,
+        "address": "0xdeEc946Fb0265eD992D2e87e9ab5A8bA779d8539",
+        "name": "Binance USD",
+        "symbol": "BUSD",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/james-chien/loany-token-list/main/assets/busd.png"
+    },
+    {
+        "chainId": 5,
+        "address": "0xCF7b849BbFEa076321C10A71F932AEdFaBdDC793",
+        "name": "Compound",
+        "symbol": "COMP",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/james-chien/loany-token-list/main/assets/comp.png"
+    },
+    {
+        "chainId": 5,
+        "address": "0x922DdB4BC3Bd62227df674d744a8535118a120C2",
+        "name": "Dai Stablecoin",
+        "symbol": "DAI",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/james-chien/loany-token-list/main/assets/dai.png"
+    },
+    {
+        "chainId": 5,
+        "address": "0x8B03BF5408752De55E47fF4E5be186dF02A10F38",
+        "name": "Fei USD",
+        "symbol": "FEI",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/james-chien/loany-token-list/main/assets/fei.png"
+    },
+    {
+        "chainId": 5,
+        "address": "0xc4eBCb49f7e14c66c12F08f6655BeE00b73933cb",
+        "name": "ChainLink Token",
+        "symbol": "LINK",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/james-chien/loany-token-list/main/assets/link.png"
+    },
+    {
+        "chainId": 5,
+        "address": "0xE2240e4516555B5749a79606DcD5cD3d445Fd741",
+        "name": "Maker",
+        "symbol": "MKR",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/james-chien/loany-token-list/main/assets/mkr.png"
+    },
+    {
+        "chainId": 5,
+        "address": "0xE5F1a7e183f628a6F78d7bc6B9BCBEADa34e964F",
+        "name": "Sushi",
+        "symbol": "SUSHI",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/james-chien/loany-token-list/main/assets/sushi.png"
+    },
+    {
+        "chainId": 5,
+        "address": "0xB9E76E8f02C5AfE67dd4b77423E2d0c2EecF28f6",
+        "name": "TrueUSD",
+        "symbol": "TUSD",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/james-chien/loany-token-list/main/assets/tusd.png"
+    },
+    {
+        "chainId": 5,
+        "address": "0xb609a1F3C980008FDc7bC0A93fafce0bb9d90aeB",
+        "name": "Uniswap",
+        "symbol": "UNI",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/james-chien/loany-token-list/main/assets/uni.png"
+    },
+    {
+        "chainId": 5,
+        "address": "0x544a806213a4F93E88eA0547005ac82C20b8Aa17",
+        "name": "USDCoin",
+        "symbol": "USDC",
+        "decimals": 6,
+        "logoURI": "https://raw.githubusercontent.com/james-chien/loany-token-list/main/assets/usdc.png"
+    },
+    {
+        "chainId": 5,
+        "address": "0xc80df921ad40dd78af442e17a77bc106f8bcec5b",
+        "name": "Pax Dollar",
+        "symbol": "USDP",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/james-chien/loany-token-list/main/assets/usdp.png"
+    },
+    {
+        "chainId": 5,
+        "address": "0xf2824b06F68d6efe32Ac7591C751a295138eC303",
+        "name": "Tether USD",
+        "symbol": "USDT",
+        "decimals": 6,
+        "logoURI": "https://raw.githubusercontent.com/james-chien/loany-token-list/main/assets/udst.png"
+    },
+    {
+        "chainId": 5,
+        "address": "0xFA9a2866A9D4F5312d72E42581DaD146389f4981",
+        "name": "Wrapped BTC",
+        "symbol": "WBTC",
+        "decimals": 8,
+        "logoURI": "https://raw.githubusercontent.com/james-chien/loany-token-list/main/assets/wbtc.png"
+    },
+    {
+        "chainId": 5,
+        "address": "0x76551C912942647f281269a1eAa0FEd2616e02D5",
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/james-chien/loany-token-list/main/assets/weth.png"
+    },
+    {
+        "chainId": 5,
+        "address": "0x870d1F2937369E38C40c5EE2dce2Af65ef50959d",
+        "name": "yearn finance",
+        "symbol": "YFI",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/james-chien/loany-token-list/main/assets/yfi.png"
+    },
+    {
+        "chainId": 5,
+        "address": "0xFb27178F5Ad562B8A3736c912719369b33D91566",
+        "name": "0x Protocol Token",
+        "symbol": "ZRX",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/james-chien/loany-token-list/main/assets/zrx.png"
+    },
+    {
+        "chainId": 5,
+        "address": "0x11f2ead3Aa71263176164A469B2104613753CC03",
+        "name": "Loany NFT",
+        "symbol": "LNFT",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/james-chien/loany-token-list/main/assets/lnft.png"
+    },
+    {
+        "chainId": 5,
+        "address": "0xD9B9dE22759A4c6B1BaB7b27a1E1555e5E86ACBa",
+        "name": "Loany",
+        "symbol": "LNY",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/james-chien/loany-token-list/main/assets/lny.png"
+    }
+]

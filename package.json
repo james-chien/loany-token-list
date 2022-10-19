@@ -1,0 +1,28 @@
+{
+  "name": "loany-token-list",
+  "version": "1.0.0",
+  "description": "The Loany token list",
+  "homepage": "https://github.com/james-chien/loany-token-list#readme",
+  "license": "MIT",
+  "main": "build/loany.tokenlist.json",
+  "scripts": {
+    "build": "rimraf build && mkdir -p build && node src/write.js > loany.tokenlist.json"
+  },
+  "files": [
+    "build/loany.tokenlist.json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/james-chien/loany-token-list.git"
+  },
+  "keywords": [
+    "loany",
+    "default",
+    "token",
+    "list"
+  ],
+  "devDependencies": {
+    "@uniswap/token-list-bridge-utils": "^1.0.8",
+    "rimraf": "^3.0.2"
+  }
+}
