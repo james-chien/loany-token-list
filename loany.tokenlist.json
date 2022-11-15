@@ -1,6 +1,6 @@
 {
   "name": "Loany",
-  "timestamp": "2022-10-01T12:12:12.000Z",
+  "timestamp": "2022-11-15T18:33:24.616Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -147,7 +147,7 @@
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/james-chien/loany-token-list/main/assets/udst.png"
+      "logoURI": "https://raw.githubusercontent.com/james-chien/loany-token-list/main/assets/usdt.png"
     },
     {
       "chainId": 5,

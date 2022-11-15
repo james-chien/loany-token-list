@@ -117,7 +117,7 @@
         "name": "Tether USD",
         "symbol": "USDT",
         "decimals": 6,
-        "logoURI": "https://raw.githubusercontent.com/james-chien/loany-token-list/main/assets/udst.png"
+        "logoURI": "https://raw.githubusercontent.com/james-chien/loany-token-list/main/assets/usdt.png"
     },
     {
         "chainId": 5,
